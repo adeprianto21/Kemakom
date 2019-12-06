@@ -15,7 +15,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Dicky Kurniawan</div>
                                         <div class="profile-role">Ketua Divisi Pengembangan Organisasi</div>
@@ -32,7 +32,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Alyya.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Non Alyya Yan Hari</div>
                                         <div class="profile-role">Bendahara Divisi</div>
@@ -47,7 +47,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Gina.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Gina Anannata</div>
                                         <div class="profile-role">Sekretaris Divisi</div>
@@ -64,7 +64,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                         <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Fahri.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Fakhri Aziz Basiri</div>
                                         <div class="profile-role">Ketua Biro MSDM</div>
@@ -79,7 +79,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Ibnu.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">M Habib Ibnu</div>
                                         <div class="profile-role">Ketua Biro LITBANG</div>
@@ -94,7 +94,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                         <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Rivia.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Riviawati Putri G</div>
                                         <div class="profile-role">Staf</div>
@@ -109,7 +109,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Tanti Amelia S</div>
                                         <div class="profile-role">Staf</div>
@@ -124,7 +124,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                         <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Imelda.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Imelda Widiya H</div>
                                         <div class="profile-role">Staf</div>
@@ -139,7 +139,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                         <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Aam Muhammad.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Aam M Ramdhan</div>
                                         <div class="profile-role">Staf</div>
@@ -154,7 +154,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Rizki Ahmad.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Rizki Ahmad Fauzan</div>
                                         <div class="profile-role">Staf</div>
@@ -169,7 +169,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/M ihsan.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Muhammad Ihsan Akbar</div>
                                         <div class="profile-role">Staf</div>
@@ -184,7 +184,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPO/Ali Akbar.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Ali Akbar Jausyani</div>
                                         <div class="profile-role">Staf</div>

@@ -15,7 +15,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/bisma.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Bisma Pandara Suhan</div>
                                         <div class="profile-role">Ketua Divisi Advokasi Sosial Politik</div>
@@ -32,7 +32,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Fina.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Fina Royana</div>
                                         <div class="profile-role">Bendahara Divisi</div>
@@ -47,7 +47,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                       <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Nurul.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Nurul Afifah</div>
                                         <div class="profile-role">Sekretaris Divisi</div>
@@ -64,7 +64,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Pernik.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Pernik Dessi Y</div>
                                         <div class="profile-role">Ketua Biro Sosial</div>
@@ -79,7 +79,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Yayang.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Yayang Sri M</div>
                                         <div class="profile-role">Ketua Biro Kesejahteraan Mahasiswa</div>
@@ -94,7 +94,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Musa.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Musa Misbahuddin</div>
                                         <div class="profile-role">Staf</div>
@@ -109,7 +109,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Widi.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Widiyanti H</div>
                                         <div class="profile-role">Staf</div>
@@ -124,7 +124,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                       <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Krisna.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Krisna Milenia</div>
                                         <div class="profile-role">Staf</div>
@@ -139,7 +139,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Anastasya.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Anastasya R</div>
                                         <div class="profile-role">Staf</div>
@@ -154,7 +154,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                      <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVADSOSPOL/Bhara.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Bhara Arvin W</div>
                                         <div class="profile-role">Staf</div>

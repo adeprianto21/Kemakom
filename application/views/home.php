@@ -88,7 +88,7 @@
                             <div class="col-md-10 mx-auto">
                                 <div class="card profile-card">
                                     <div class="row w-100 h-100 m-0">
-                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/nondiv/sekre2.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                         <div class="profile-body">
                                             <div class="profile-name">Annisa Fitria</div>
                                             <div class="profile-role">Sekretaris I</div>
@@ -103,7 +103,7 @@
                             <div class="col-md-10 mx-auto">
                                 <div class="card profile-card">
                                     <div class="row w-100 h-100 m-0">
-                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/nondiv/sekre2.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                         <div class="profile-body">
                                             <div class="profile-name">Dina</div>
                                             <div class="profile-role">Bendahara I</div>
@@ -133,7 +133,7 @@
                             <div class="col-md-10 mx-auto">
                                 <div class="card profile-card">
                                     <div class="row w-100 h-100 m-0">
-                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/nondiv/sekre2.jpg'?>"></img>
+                                        <img class="profile-image" src="<?php echo base_url().'assets/fr/img/nondiv/EVA.png'?>"></img>
                                         <div class="profile-body">
                                             <div class="profile-name">Eva</div>
                                             <div class="profile-role">Bendahara II</div>

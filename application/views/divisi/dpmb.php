@@ -15,7 +15,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Fajar.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Fajar Tri Utomo</div>
                                         <div class="profile-role">Ketua Divisi Penyaluran Minar dan Bakat</div>
@@ -32,7 +32,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Jasmine.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Jasmine Tsania</div>
                                         <div class="profile-role">Bendahara Divisi</div>
@@ -47,7 +47,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Raras.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Raraswati Deviana</div>
                                         <div class="profile-role">Sekretaris Divisi</div>
@@ -64,7 +64,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Achmad Firditama</div>
                                         <div class="profile-role">Ketua Biro Keolahragaan</div>
@@ -79,7 +79,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Bias.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Bias Fajar A</div>
                                         <div class="profile-role">Ketua Biro Keakraban</div>
@@ -94,7 +94,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Feni.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Fenny Feronika M</div>
                                         <div class="profile-role">Ketua Biro Kesenian</div>
@@ -109,7 +109,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Ikhsan F</div>
                                         <div class="profile-role">Staf</div>
@@ -124,7 +124,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Zahid.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">M Zahid Tsaqif</div>
                                         <div class="profile-role">Staf</div>
@@ -139,7 +139,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Albari.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Albari Berki P</div>
                                         <div class="profile-role">Staf</div>
@@ -154,7 +154,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Ardiansyah</div>
                                         <div class="profile-role">Staf</div>
@@ -169,7 +169,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Rafi.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Rafi Ramadian</div>
                                         <div class="profile-role">Staf</div>
@@ -184,7 +184,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Azis Faisal</div>
                                         <div class="profile-role">Staf</div>
@@ -199,7 +199,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                   <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DPMB/Defin.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Deffin</div>
                                         <div class="profile-role">Staf</div>

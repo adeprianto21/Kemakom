@@ -15,7 +15,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Alfa.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Muhammad Faisal Alfarizki</div>
                                         <div class="profile-role">Ketua Divisi Pendidikan dan Kepelatihan</div>
@@ -32,7 +32,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Lilis Sukmawati</div>
                                         <div class="profile-role">Bendahara Divisi</div>
@@ -47,7 +47,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Shafa.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Shafa Putri Andini</div>
                                         <div class="profile-role">Sekretaris Divisi</div>
@@ -64,7 +64,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                   <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Chandra.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Chandra Muhammad</div>
                                         <div class="profile-role">Ketua Biro Pelatihan</div>
@@ -79,7 +79,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/nandy.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Nandy Ali</div>
                                         <div class="profile-role">Ketua Biro Pendidikan</div>
@@ -94,7 +94,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Lembayung.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Lembayung Tazkia</div>
                                         <div class="profile-role">Staf</div>
@@ -109,7 +109,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Fauziah.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Fauziah Dharmawanti</div>
                                         <div class="profile-role">Staf</div>
@@ -124,7 +124,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Sondari Setia</div>
                                         <div class="profile-role">Staf</div>
@@ -139,7 +139,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/DIVDIKLAT/Ani.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Ani Mulyani</div>
                                         <div class="profile-role">Staf</div>
@@ -154,7 +154,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Vania Apriliani</div>
                                         <div class="profile-role">Staf</div>

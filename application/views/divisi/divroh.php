@@ -15,7 +15,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor2.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Naufal Nurazmi</div>
                                         <div class="profile-role">Ketua Divisi Kerohanian</div>
@@ -32,7 +32,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Puput Yuniar</div>
                                         <div class="profile-role">Bendahara Divisi</div>
@@ -47,7 +47,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                   <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Rully Nurul H</div>
                                         <div class="profile-role">Sekretaris Divisi</div>
@@ -64,7 +64,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                  <img class="profile-image" src="<?php echo base_url().'assets/fr/img/divroh/GhifariDafa.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Ghifary Daffa P</div>
                                         <div class="profile-role">Ketua Biro Pembinaan</div>
@@ -79,7 +79,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                 <img class="profile-image" src="<?php echo base_url().'assets/fr/img/divroh/Reni.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Reni Nuryanti</div>
                                         <div class="profile-role">Ketua Biro Keputrian</div>
@@ -94,7 +94,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                     <img class="profile-image" src="<?php echo base_url().'assets/fr/img/divroh/Eky.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Eky Hilmi Laudza</div>
                                         <div class="profile-role">Ketua Biro Syiar</div>
@@ -109,7 +109,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                   <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Meirista Puspa A</div>
                                         <div class="profile-role">Staf</div>
@@ -124,7 +124,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Nur Aisyah N</div>
                                         <div class="profile-role">Staf</div>
@@ -139,7 +139,7 @@
                         <div class="col-md-10 mx-auto">
                             <div class="card profile-card">
                                 <div class="row w-100 h-100 m-0">
-                                    <img class="profile-image" src="<?php echo base_url().'assets/fr/img/profile.jpg'?>"></img>
+                                  <img class="profile-image" src="<?php echo base_url().'assets/fr/img/vektor.png'?>"></img>
                                     <div class="profile-body">
                                         <div class="profile-name">Andita Khairunnisa</div>
                                         <div class="profile-role">Staf</div>
