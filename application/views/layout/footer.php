@@ -11,13 +11,13 @@
                             Divisi
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">DPO</a></li>
-                            <li><a href="#">DPMB</a></li>
-                            <li><a href="#">DIVROH</a></li>
-                            <li><a href="#">DIVDIKLAT</a></li>
-                            <li><a href="#">DIVADSOSPOL</a></li>
-                            <li><a href="#">DIVKOMTEKINFO</a></li>
-                            <li><a href="#">NON-DIV</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/dpo' ?>">DPO</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/dpmb' ?>">DPMB</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/divroh' ?>">DIVROH</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/divdiklat' ?>">DIVDIKLAT</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/divadsospol' ?>">DIVADSOSPOL</a></li>
+                            <li>  <a href="<?php echo site_url().'divisi/divkomtekinfo' ?>">DIVKOMTEKINFO</a></li>
+                            <li>  <a href="<?php echo site_url().'Home/index' ?>">NON-DIV</a></li>
                         </ul>
                     </div>
 
@@ -26,7 +26,7 @@
                             Contact
                         </div>
                         <ul class="footer-list">
-                            <li><a href="#">Instagram</a></li>
+                            <li><a href="https://www.instagram.com/kemakom/" target="_blank" >Instagram</a></li>
                             <li><a href="#">Facebook</a></li>
                             <li><a href="#">Line</a></li>
                         </ul>

@@ -15,7 +15,7 @@
                                 <a class="nav-link" href="<?php echo site_url().'berita'?>">BERITA</a>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"aria-expanded="false">BEM DAN DPM</a>
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" h1 style="color:white;">BEM DAN DPM</a></h1>
                               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1">
                                 <a class="dropdown-item" href="<?php echo site_url().'divisi/divkomtekinfo' ?>">DIVKOMTEKINFO</a>
                                 <a class="dropdown-item" href="<?php echo site_url().'divisi/divroh' ?>">DIVROH</a>
